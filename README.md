@@ -17,7 +17,7 @@ Users should be able to:
 - **Bonus**: See the chat interface animate on the initial load
 
 ### Links
-- Live Site URL: [Chat app illustration](https://just-Muzz.github.io/chat-app-css-illustration-master/)
+- Live Site URL: [Chat app illustration](https://just-muzz.github.io/chat-app-illustration-FEM/)
 
 ### Built with
 - Semantic HTML5 markup
